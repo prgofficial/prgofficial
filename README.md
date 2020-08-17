@@ -1,16 +1,16 @@
-### Hi there 👋
+### 𝓗σ𝓛ค  💜✋
 
-<!--
-**prgofficial/prgofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/prgofficial) [![telegram badge](https://img.shields.io/badge/🅼คгςยรㅤ🅷๏ɭɭ๏ฬคY-30302f?style=flat&logo=telegram)](https://telegram.dog/prgofficial) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/prgofficial)
 
-Here are some ideas to get you started:
+[![Stats](https://github-readme-stats.vercel.app/api?username=prgofficial&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                
+![GitHub followers](https://img.shields.io/github/followers/prgofficial?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prgofficial/)
+
+- 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
+- 🌚 <b>nσσв cσdєr</b>
+- 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
+- ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
+
+  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-InFoTelGroup-RED.svg)](https://telegram.dog/InFoTelGroup)
