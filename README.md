@@ -13,4 +13,4 @@
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
-  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-InFoTelGroup-RED.svg)](https://telegram.dog/InFoTelGroup)
+  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-TroJanzSupport-RED.svg)](https://telegram.dog/TroJanzSupport)
