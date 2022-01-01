@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/prgofficial) [![telegram badge](https://img.shields.io/badge/🅼คгςยรㅤ🅷๏ɭɭ๏ฬคY-30302f?style=flat&logo=telegram)](https://telegram.dog/prgofficial) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/prgofficial)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=prgofficial&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api? 5006690476:AAEl9jsV6KANILyJdGfOQg2cQQRKXX4a8vA=prgofficial&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
                 
